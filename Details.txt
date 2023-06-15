@@ -1,0 +1,13 @@
+USE:
+Middleware
+REST Api
+Route Handler
+App.post
+App.get
+Object.assign
+JSON sTRINGIFY
+
+What we have done:
+Use of Https methods
+1) URL k thorugh JSON file se data get kiya.
+2) URL k through JSON file main data post kiya
